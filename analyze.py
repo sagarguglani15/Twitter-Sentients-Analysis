@@ -128,10 +128,10 @@ class Review(Canvas):
     def start_review(self, user):
 
         #My twitter credentials
-        consumer_key='KNJv7m3khYTXuWvFS7Y6vnkTs'
-        consumer_secret_key='jANitABEvaOZj50yF9n9InjRN3dsaC69DoNDx6rf3c2bLindXj'
-        access_token='176084045-9HfXe1Dskd3xgyFv1HUMeDn4moDAhGHDizpTPqzP'
-        access_token_secret='stM38xEN8MHHqbqcOoTC7T4TRmzZGsoQA6PRW0Kp842Ko'
+        consumer_key= ''  # *hidden content* #
+        consumer_secret_key= ''  # *hidden content* #
+        access_token= ''  # *hidden content* #
+        access_token_secret=  '' # *hidden content* #
 
 
         try:
